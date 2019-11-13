@@ -4,6 +4,8 @@
 
 Proyecto SIDI App es una aplicativo para la administración de registros de inventarios con valor agregado en el reconocimiento de objetos mediante la conexión a un servidor de reconocimiento de imágenes.
 
+[Descargar aquí](bin/sidiapp.apk)
+
 La ventana principal de la app es la siguiente donde el usuario puede registrar un PIN de seguridad para entrar:
 <br/>
 ![main](img/1.png)
